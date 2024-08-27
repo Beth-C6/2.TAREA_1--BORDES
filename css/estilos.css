@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+}
+.caja
+{
+    margin:100px ;
+    width: 1000px;
+    padding: 20px 20px 20px 20px ;
+    background-color: darkred;
+    border: 10px;
+    border-color: black;
+    border-style: double;
+    ;
+}
+.caja1
+{
+    margin:5px ;
+    width: 900px;
+    padding: 20px 20px 20px 20px ;
+    background-color: red;  
+    border: 10px;
+    border-color: firebrick;
+    border-style: groove;
+}
+.caja2
+{
+    margin: 5px;
+    width: 800px;
+    padding: 20px 20px 20px 20px ;
+    background-color: coral;
+    border: 10px;
+    border-color: red;
+    border-style: dashed;
+}
+.caja3
+{
+    margin: 5px;
+    width: 700px;
+    padding: 20px 20px 20px 20px ;
+    background-color: orange;
+    border: 10px;
+    border-color: coral;
+    border-style: dashed;
+}
+.caja4
+{
+    margin: 5px;
+    width: 600px;
+    padding: 20px 20px 20px 20px ;
+    background-color: gold;
+    border: 10px;
+    border-color: orange;
+    border-style: dashed;
+}
+.caja5
+{
+    margin: 5px;
+    width: 500px;
+    padding: 20px 20px 20px 20px ;
+    background-color: burlywood;
+    border: 10px;
+    border-color: gold;
+    border-style: dashed;
+
+}
+.caja6
+{
+    margin: 5px;
+    width: 400px;
+    padding: 20px 20px 20px 20px ;
+    background-color: moccasin;
+    border: 10px;
+    border-color: burlywood;
+    border-style: dotted;
+}
+.caja7
+{
+    margin: 5px;
+    width: 300px;
+    padding: 20px 20px 20px 20px ;
+    background-color: lightyellow;
+    border: 10px;
+    border-color: moccasin;
+    border-style: double;
+}
